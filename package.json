@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/native-ui-components.git",
-    "baseUrl": "https://github.com/github_account/native-ui-components"
+    "url": "git@github.com:leah-bluescape/native-ui-components.git",
+    "baseUrl": "https://github.com/leah-bluescape/native-ui-components"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
     "name": "Leah Xia",
-    "email": "leahxia5@email.com"
+    "email": "leahxia5@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
